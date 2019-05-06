@@ -1,5 +1,5 @@
-# yizhita
-# all in one
+# Yizhita
+# All in one
 
 
 moni.sh -- moniter ping /home/moniter/host every 10s
